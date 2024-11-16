@@ -2,6 +2,7 @@
 
 ## LOVE EXPLORING...
 
+<!-- 
 <br/>
 
 ![GitHub stars](https://img.shields.io/github/stars/ishag4/ishag4?style=social) ![GitHub forks](https://img.shields.io/github/forks/ishag4/ishag4?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/ishag4/ishag4?style=social) ![GitHub followers](https://img.shields.io/github/followers/ishag4?style=social)
@@ -18,6 +19,22 @@
 <br>
 <br/>
 <br>
+-->
+
+![GitHub stars](https://img.shields.io/github/stars/ishag4-ui/ishag4-ui?style=social)  
+![GitHub forks](https://img.shields.io/github/forks/ishag4-ui/ishag4-ui?style=social)  
+![GitHub watchers](https://img.shields.io/github/watchers/ishag4-ui/ishag4-ui?style=social)  
+![GitHub followers](https://img.shields.io/github/followers/ishag4?style=social)  
+
+![GitHub repo size](https://img.shields.io/github/repo-size/ishag4-ui/ishag4-ui?style=plastic)  
+![GitHub language count](https://img.shields.io/github/languages/count/ishag4-ui/ishag4-ui?style=plastic)  
+![GitHub top language](https://img.shields.io/github/languages/top/ishag4-ui/ishag4-ui?style=plastic)  
+![GitHub last commit](https://img.shields.io/github/last-commit/ishag4-ui/ishag4-ui?color=red&style=plastic)  
+
+<b>Tech Stack</b>  
+
+<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
 
 <!-- <details open>
 <summary>🤝 <b>To connect with me</b></summary>
