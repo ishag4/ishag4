@@ -45,7 +45,7 @@
 <!--  --> 
 <!-- --- -->
 
-My another Github Page: ![Isha Gupta](https://github.com/isha369)
+My other GitHub page: <a href="https://github.com/isha369">Isha Gupta</a>
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
