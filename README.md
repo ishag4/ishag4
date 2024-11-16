@@ -4,11 +4,11 @@
 
 <br/>
 
-![GitHub stars](https://img.shields.io/github/stars/qwerty-123456-ui/qwerty-123456-ui?style=social) ![GitHub forks](https://img.shields.io/github/forks/qwerty-123456-ui/qwerty-123456-ui?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/qwerty-123456-ui/qwerty-123456-ui?style=social) ![GitHub followers](https://img.shields.io/github/followers/qwerty-123456-ui?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ishag4/ishag4?style=social) ![GitHub forks](https://img.shields.io/github/forks/ishag4/ishag4?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/ishag4/ishag4?style=social) ![GitHub followers](https://img.shields.io/github/followers/ishag4?style=social)
 
 <br/>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/qwerty-123456-ui/qwerty-123456-ui?style=plastic) ![GitHub language count](https://img.shields.io/github/languages/count/qwerty-123456-ui/qwerty-123456-ui?style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/qwerty-123456-ui/qwerty-123456-ui?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/qwerty-123456-ui/qwerty-123456-ui?color=red&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/ishag4/ishag4?style=plastic) ![GitHub language count](https://img.shields.io/github/languages/count/ishag4/ishag4?style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/ishag4/ishag4?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/ishag4/ishag4?color=red&style=plastic)
 
 <b>Tech Stack</b>
 
@@ -29,8 +29,8 @@
 <!-- [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://pr2tik1.github.io/) -->
 <!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/isha-gupta-608744170) -->
 <!-- [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ishagupta____/) -->
-<!-- [![Visits Badge](https://badges.pufler.dev/visits/qwerty-123456-ui/qwerty-123456-ui?style=for-the-badge&color=blue)](https://github.com/qwerty-123456-ui/qwerty-123456-ui)
-![Repos Badge](https://badges.pufler.dev/repos/qwerty-123456-ui?style=for-the-badge&color=red)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/ishag4/ishag4?style=for-the-badge&color=blue)](https://github.com/ishag4/ishag4)
+![Repos Badge](https://badges.pufler.dev/repos/ishag4?style=for-the-badge&color=red)
 
 </p>
 
@@ -44,8 +44,8 @@
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=qwerty-123456-ui&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=qwerty-123456-ui&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ishag4&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ishag4&hide=css,java,html&theme=tokyonight">
 </p>
 
 </details>
