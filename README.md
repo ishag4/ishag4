@@ -45,6 +45,8 @@
 <!--  --> 
 <!-- --- -->
 
+My another Github Page: ![Isha Gupta](https://github.com/isha369)
+
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 
