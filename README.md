@@ -21,9 +21,9 @@
 <br>
 -->
 
-![GitHub stars](https://img.shields.io/github/stars/ishag4/ishag4?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/ishag4/ishag4?style=social)  
-![GitHub watchers](https://img.shields.io/github/watchers/ishag4/ishag4?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/ishag4/ishag4?style=social) 
+![GitHub forks](https://img.shields.io/github/forks/ishag4/ishag4?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/ishag4/ishag4?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/ishag4?style=social)  
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ishag4/ishag4?style=plastic)  
