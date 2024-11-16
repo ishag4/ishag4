@@ -21,15 +21,15 @@
 <br>
 -->
 
-![GitHub stars](https://img.shields.io/github/stars/ishag4-ui/ishag4-ui?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/ishag4-ui/ishag4-ui?style=social)  
-![GitHub watchers](https://img.shields.io/github/watchers/ishag4-ui/ishag4-ui?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/ishag4/ishag4?style=social)  
+![GitHub forks](https://img.shields.io/github/forks/ishag4/ishag4?style=social)  
+![GitHub watchers](https://img.shields.io/github/watchers/ishag4/ishag4?style=social)  
 ![GitHub followers](https://img.shields.io/github/followers/ishag4?style=social)  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/ishag4-ui/ishag4-ui?style=plastic)  
-![GitHub language count](https://img.shields.io/github/languages/count/ishag4-ui/ishag4-ui?style=plastic)  
-![GitHub top language](https://img.shields.io/github/languages/top/ishag4-ui/ishag4-ui?style=plastic)  
-![GitHub last commit](https://img.shields.io/github/last-commit/ishag4-ui/ishag4-ui?color=red&style=plastic)  
+![GitHub repo size](https://img.shields.io/github/repo-size/ishag4/ishag4?style=plastic)  
+![GitHub language count](https://img.shields.io/github/languages/count/ishag4/ishag4?style=plastic)  
+![GitHub top language](https://img.shields.io/github/languages/top/ishag4/ishag4?style=plastic)  
+![GitHub last commit](https://img.shields.io/github/last-commit/ishag4/ishag4?color=red&style=plastic)  
 
 <b>Tech Stack</b>  
 
